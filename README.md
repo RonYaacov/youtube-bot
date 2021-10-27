@@ -1,2 +1,2 @@
 # youtube-bot
-Add skip bot first project created at 2019
+Ad skip bot first project created at 2019
